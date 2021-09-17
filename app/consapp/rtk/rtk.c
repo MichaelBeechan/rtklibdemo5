@@ -36,6 +36,12 @@
 *                           add option -w
 *           2017/09/01 1.21 add command ssr
 *-----------------------------------------------------------------------------*/
+
+/* TODO LIST
+1. remove opt file support
+2. 
+
+*/
 #include <stdlib.h>
 #include <signal.h>
 #include <unistd.h>
