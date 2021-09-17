@@ -1,4 +1,6 @@
-# makefile for rtkrcv
+# makefile for rtk console app
+# remove file support
+# switch to single console app
 
 BINDIR = /usr/local/bin
 SRC    = ../../../../src
